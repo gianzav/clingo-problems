@@ -5,7 +5,7 @@ The goal is to present for each problem a "direct" solution and one or more opti
 # Problems addressed
 
 - [x] [3-partition problem](https://en.wikipedia.org/wiki/3-partition\_problem)
-- [ ] [Bin packing problem](https://en.wikipedia.org/wiki/Bin\_packing\_problem)
+- [x] [Bin packing problem](https://en.wikipedia.org/wiki/Bin\_packing\_problem)
 - [x] [Bottleneck traveling salesman problem](https://en.wikipedia.org/wiki/Travelling\_salesman\_problem#Bottleneck\_traveling\_salesman)
 - [ ] [Uncapacitated facility location problem](https://en.wikipedia.org/wiki/Facility\_location\_problem#Uncapacitated\_facility\_location)
 - [ ] [Flow shop scheduling](https://en.wikipedia.org/wiki/Flow\_shop\_scheduling)
