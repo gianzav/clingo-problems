@@ -1,4 +1,4 @@
-This repository contains ASP solutions to hard problems taken mainly from ![This list](https://en.wikipedia.org/wiki/List_of_NP-complete_problems#Mathematical_programming).
+This repository contains ASP solutions to hard problems taken mainly from ![this list](https://en.wikipedia.org/wiki/List_of_NP-complete_problems#Mathematical_programming).
 
 The goal is to present for each problem a "direct" solution and one or more optimized versions, using ASP modulo theories when appropriate.
 
@@ -7,7 +7,7 @@ The goal is to present for each problem a "direct" solution and one or more opti
 - [x] [3-partition problem](https://en.wikipedia.org/wiki/3-partition\_problem)
 - [x] [Bin packing problem](https://en.wikipedia.org/wiki/Bin\_packing\_problem)
 - [x] [Bottleneck traveling salesman problem](https://en.wikipedia.org/wiki/Travelling\_salesman\_problem#Bottleneck\_traveling\_salesman)
-- [ ] [Uncapacitated facility location problem](https://en.wikipedia.org/wiki/Facility\_location\_problem#Uncapacitated\_facility\_location)
+- [x] [Uncapacitated facility location problem](https://en.wikipedia.org/wiki/Optimal\_facility\_location#Uncapacitated\_facility\_location)
 - [ ] [Flow shop scheduling](https://en.wikipedia.org/wiki/Flow\_shop\_scheduling)
 - [ ] [Generalized assignment problem](https://en.wikipedia.org/wiki/Generalized\_assignment\_problem)
 - [ ] [Integer programming](https://en.wikipedia.org/wiki/Integer\_programming)
