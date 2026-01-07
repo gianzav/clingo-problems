@@ -9,7 +9,7 @@ The goal is to present for each problem a "direct" solution and one or more opti
 - [x] [Bottleneck traveling salesman problem](https://en.wikipedia.org/wiki/Travelling\_salesman\_problem#Bottleneck\_traveling\_salesman)
 - [x] [Uncapacitated facility location problem](https://en.wikipedia.org/wiki/Optimal\_facility\_location#Uncapacitated\_facility\_location)
 - [ ] [Flow shop scheduling](https://en.wikipedia.org/wiki/Flow\_shop\_scheduling)
-- [ ] [Generalized assignment problem](https://en.wikipedia.org/wiki/Generalized\_assignment\_problem)
+- [x] [Generalized assignment problem](https://en.wikipedia.org/wiki/Generalized\_assignment\_problem)
 - [x] [Integer programming](https://en.wikipedia.org/wiki/Integer\_programming)
 - [ ] [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack\_problem)
 - [ ] [Quadratic knapsack problem](https://en.wikipedia.org/wiki/Quadratic\_knapsack\_problem)
