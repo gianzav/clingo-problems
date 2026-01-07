@@ -1,4 +1,4 @@
-This repository contains ASP solutions to hard problems taken mainly from ![This list](https://en.wikipedia.org/wiki/List_of_NP-complete_problems#Mathematical_programming).
+This repository contains ASP solutions to hard problems taken mainly from [This list](https://en.wikipedia.org/wiki/List_of_NP-complete_problems#Mathematical_programming).
 
 The goal is to present for each problem a "direct" solution and one or more optimized versions, using ASP modulo theories when appropriate.
 
