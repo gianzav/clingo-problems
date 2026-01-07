@@ -16,7 +16,7 @@ The goal is to present for each problem a "direct" solution and one or more opti
 - [ ] [Numerical 3-dimensional matching](https://en.wikipedia.org/wiki/3-dimensional\_matching#Numerical\_3-dimensional\_matching)
 - [ ] [Open-shop scheduling](https://en.wikipedia.org/wiki/Open-shop\_scheduling)
 - [ ] [Partition problem](https://en.wikipedia.org/wiki/Partition\_problem)
-- [ ] [Quadratic assignment problem](https://en.wikipedia.org/wiki/Quadratic\_assignment\_problem)
+- [x] [Quadratic assignment problem](https://en.wikipedia.org/wiki/Quadratic\_assignment\_problem)
 - [ ] [Quadratic programming](https://en.wikipedia.org/wiki/Quadratic\_programming)
 - [ ] [Subset sum problem](https://en.wikipedia.org/wiki/Subset\_sum\_problem)
 - [ ] [Traveling salesman problem](https://en.wikipedia.org/wiki/Travelling\_salesman\_problem)
