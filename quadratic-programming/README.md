@@ -1,0 +1,1 @@
+The encoding in [solver.lp](./solver.lp) is practically the same as the one in [integer-programming/solver.lp](../integer-programming/solver.lp), but allows also the `square` atom to be used and to have a function to be optimized in `maximize`.
