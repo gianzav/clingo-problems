@@ -5,7 +5,7 @@ The goal is to present for each problem a "direct" solution and one or more opti
 # Mathematical programming
 
 | Problem | Naïve solution | Optimized solution |
-| ------- | -------------- | ------------------ |
+| ------- | :------------: | :----------------: |
 | [3-partition problem](https://en.wikipedia.org/wiki/3-partition\_problem) | ✅ |  |
 | [Bin packing problem](https://en.wikipedia.org/wiki/Bin\_packing\_problem) | ✅ |  |
 | [Bottleneck traveling salesman problem](https://en.wikipedia.org/wiki/Travelling\_salesman\_problem#Bottleneck\_traveling\_salesman) | ✅ |  |
@@ -27,5 +27,6 @@ The goal is to present for each problem a "direct" solution and one or more opti
 # String processing
 
 | Problem | Naïve solution | Optimized solution |
-| ------- | -------------- | ------------------ |
+| ------- | :------------: | :----------------: |
 | [Closest string](https://en.wikipedia.org/wiki/Closest\_string) | ✅ | ✅ |
+| [Bounded Post correspondence problem](https://en.wikipedia.org/wiki/Post\_correspondence\_problem) | ✅ |  |
