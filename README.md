@@ -13,7 +13,7 @@ The goal is to present for each problem a "direct" solution and one or more opti
 - [x] [Integer programming](https://en.wikipedia.org/wiki/Integer\_programming)
 - [x] [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack\_problem)
 - [ ] [Quadratic knapsack problem](https://en.wikipedia.org/wiki/Quadratic\_knapsack\_problem)
-- [ ] [Numerical 3-dimensional matching](https://en.wikipedia.org/wiki/3-dimensional\_matching#Numerical\_3-dimensional\_matching)
+- [x] [Numerical 3-dimensional matching](https://en.wikipedia.org/wiki/3-dimensional\_matching#Numerical\_3-dimensional\_matching)
 - [ ] [Open-shop scheduling](https://en.wikipedia.org/wiki/Open-shop\_scheduling)
 - [ ] [Partition problem](https://en.wikipedia.org/wiki/Partition\_problem)
 - [x] [Quadratic assignment problem](https://en.wikipedia.org/wiki/Quadratic\_assignment\_problem)
