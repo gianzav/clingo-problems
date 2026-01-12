@@ -1,5 +1,5 @@
-%% Very slow with bound = 8, there is room for improvement
-#const bound = 8.
+#const top_bound = 8.
+#const low_bound = 1.
 
 tile(a,1,"a").
 tile(a,2,"ab").
