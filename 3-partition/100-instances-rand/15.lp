@@ -1,0 +1,12 @@
+elem(1, 7).
+elem(2, 10).
+elem(3, 10).
+elem(4, 4).
+elem(5, 9).
+elem(6, 8).
+elem(7, 5).
+elem(8, 8).
+elem(9, 4).
+elem(10, 2).
+elem(11, 5).
+elem(12, 7).
