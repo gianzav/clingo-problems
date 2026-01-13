@@ -6,7 +6,7 @@ The goal is to present for each problem a "direct" solution and one or more opti
 
 | Problem | Naïve solution | Optimized solution |
 | ------- | :------------: | :----------------: |
-| [3-partition problem](https://en.wikipedia.org/wiki/3-partition\_problem) | ✅ |  |
+| [3-partition problem](https://en.wikipedia.org/wiki/3-partition\_problem) | ✅ | ✅ |
 | [Bin packing problem](https://en.wikipedia.org/wiki/Bin\_packing\_problem) | ✅ |  |
 | [Bottleneck traveling salesman problem](https://en.wikipedia.org/wiki/Travelling\_salesman\_problem#Bottleneck\_traveling\_salesman) | ✅ |  |
 | [Uncapacitated facility location problem](https://en.wikipedia.org/wiki/Optimal\_facility\_location#Uncapacitated\_facility\_location) | ✅ |  |
